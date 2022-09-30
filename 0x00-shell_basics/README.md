@@ -4,9 +4,9 @@ Are two things that got me this far. Shell basics are the
 Fundamental steps in understanding how the Linux OS environment
 Works.
 
-# ABOUT REPO
+# ABOUT FOLDER
 
-This repo contains folders and shell scripts in 
+This FOLDER contains files with shell scripts in 
 Regards to understanding the shell interface and command
 Interpreter.
 Some which consists of:
